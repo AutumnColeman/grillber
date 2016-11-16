@@ -1,8 +1,9 @@
 #Grillber 
 Created as a collaborative, full-stack project at DigitalCrafts. 
 
-www.grillber.com
+**Visit Demo Site:** www.grillber.com
 
+<img src="grillber_logo.png" alt="Grillber Logo" width="400"/>
 ##Contents
   * Overview 
   * Technologies
